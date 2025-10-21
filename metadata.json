@@ -1,0 +1,5 @@
+{
+  "name": "Local Audio PWA Player",
+  "description": "A progressive web app that scans and plays local audio files from your device. Select a folder containing your music to create a playlist and enjoy offline playback.",
+  "requestFramePermissions": []
+}
